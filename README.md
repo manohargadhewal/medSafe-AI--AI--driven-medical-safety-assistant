@@ -116,8 +116,9 @@ MedSafe AI is for **educational and informational purposes only**. It is not a s
 
 ## 👥 Contributors
 
-- Radhika Saxena (Radhika2811055)
-- Rishita Pandey(RishitaPandey2327)
-- Team Members
+- Manohar Garhewal
+- Muskan jhariya
+- mayank patel
+- Meghna singh
 
 **Milestone 4 — Activity 4.3: Deployment Preparation and Final Validation**
